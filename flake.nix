@@ -43,7 +43,7 @@
             pname = "zellij-vim-nav";
             version = "0.1.0";
             src = ./.;
-            cargoHash = "sha256-fqT+fOgigotqEiv84u2Y1TsCILr47M/KyJKWSveZ060=";
+            cargoHash = "sha256-58Z8TeTNGj3kDCNRYAq4eiVwiohbTXXBEHXofOmEmNA=";
 
             # Add OpenSSL for native build dependencies
             nativeBuildInputs = [ pkgs.pkg-config ];
