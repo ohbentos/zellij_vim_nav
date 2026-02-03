@@ -10,5 +10,5 @@ crate-type = ["cdylib"]
 zellij-tile = "0.43.1"
 
 [profile.release]
-opt-level = "s"
+opt-level = 3
 lto = true
